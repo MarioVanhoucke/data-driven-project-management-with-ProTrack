@@ -12,7 +12,7 @@ Reading project data in ProTrack is easy, but adding new data is somewhat buggy,
 
 ## Download
 
-Download the latest release (a `.zip` containing the ProTrack executable) from the [Releases](https://github.com/<your-username>/<repo-name>/releases/latest) section of this repository. Unzip it and run the executable. ProTrack is designed for Windows; if you are on a recent version of Windows, you may need to run it in compatibility mode.
+Download the latest release (a `.zip` containing the ProTrack executable) from the [Releases](https://github.com/MarioVanhoucke/data-driven-project-management-with-ProTrack) section of this repository. Unzip it and run the executable. ProTrack is designed for Windows; if you are on a recent version of Windows, you may need to run it in compatibility mode.
 
 ## Data & Tools
 

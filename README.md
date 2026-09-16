@@ -36,4 +36,4 @@ New to ProTrack? Start with the free companion book *Dynamic Scheduling on Your 
 
 ## Support
 
-ProTrack is no longer actively maintained, so please don't expect a fast turnaround on bug reports. Feel free to open an issue if you run into something, but use it with the understanding that it is provided as-is, without warranty or ongoing support.
+ProTrack is no longer actively maintained, so the growing number of bugs can no longer be reported. The software is provided as-is, without warranty or ongoing support.
